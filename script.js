@@ -1,4 +1,4 @@
-// ================= MOBILE MENU =================
+
 
 const menuBtn = document.getElementById("menuBtn");
 const navLinks = document.getElementById("navLinks");
@@ -11,7 +11,6 @@ menuBtn.addEventListener("click", () => {
 });
 
 
-// Close mobile menu after clicking a navigation link
 
 document.querySelectorAll(".nav-links a").forEach(link => {
 
@@ -24,7 +23,6 @@ document.querySelectorAll(".nav-links a").forEach(link => {
 });
 
 
-// ================= SCROLL REVEAL ANIMATION =================
 
 const revealElements =
     document.querySelectorAll(".reveal");
@@ -62,7 +60,6 @@ revealElements.forEach(element => {
 });
 
 
-// ================= CURRENT YEAR =================
 
 document.getElementById("year").textContent =
     new Date().getFullYear();
