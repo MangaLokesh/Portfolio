@@ -23,7 +23,7 @@ This portfolio showcases my skills, projects, and background as a **Frontend Dev
 
 Visit the live website to explore my portfolio.
 
-🔗 **Live Demo:** [Add Your Portfolio URL Here]
+🔗 **Live Demo:** [https://mangalokesh.vercel.app/]
 
 ## ⚙️ Run Locally
 
