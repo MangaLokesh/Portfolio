@@ -30,7 +30,7 @@ Visit the live website to explore my portfolio.
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/MangaLokesh/Portfolio.git
    ```
 
 2. Open the project folder.
